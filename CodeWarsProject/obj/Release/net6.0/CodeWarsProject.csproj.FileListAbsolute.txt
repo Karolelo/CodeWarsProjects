@@ -1,0 +1,15 @@
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\bin\Release\net6.0\CodeWarsProject.exe
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\bin\Release\net6.0\CodeWarsProject.deps.json
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\bin\Release\net6.0\CodeWarsProject.runtimeconfig.json
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\bin\Release\net6.0\CodeWarsProject.dll
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\bin\Release\net6.0\CodeWarsProject.pdb
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\obj\Release\net6.0\CodeWarsProject.csproj.AssemblyReference.cache
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\obj\Release\net6.0\CodeWarsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\obj\Release\net6.0\CodeWarsProject.AssemblyInfoInputs.cache
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\obj\Release\net6.0\CodeWarsProject.AssemblyInfo.cs
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\obj\Release\net6.0\CodeWarsProject.csproj.CoreCompileInputs.cache
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\obj\Release\net6.0\CodeWarsProject.dll
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\obj\Release\net6.0\refint\CodeWarsProject.dll
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\obj\Release\net6.0\CodeWarsProject.pdb
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\obj\Release\net6.0\CodeWarsProject.genruntimeconfig.cache
+C:\Users\kasid\RiderProjects\CodeWarsProject\CodeWarsProject\obj\Release\net6.0\ref\CodeWarsProject.dll
